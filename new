@@ -4,4 +4,16 @@
 2. S_ISDIR
   - stat.h
 3. std::string::rfind
+4. timeval - time.h
+5. tm - time.h
+6. std::stringstream
+7. gettimeofday - time.h
+8. localtime - time.h
+9. #define MKDIR(s) mkdir( (s), S_IRWXU | S_IRWXG) -- fcntl.h
+10. cmd to get cpu & memory status of PID
+	ps -p <PID> -o %cpu %mem
+	
+11. strrchr
+12. strcmp
+
 
