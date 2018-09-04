@@ -1,4 +1,7 @@
-stat function
+1.stat function
   -input path file or dir, struct stat
   - gets file mode, properties
+2. S_ISDIR
+  - stat.h
+3. std::string::rfind
 
